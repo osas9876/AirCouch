@@ -6,7 +6,7 @@
     <string name="hint_spacesAvailable">Spaces Avaliable</string>
     <string name="menu_addAirCouch">Add</string>
     <string-array name="hint_type">
-    <item>Couch</item>
+        <item>Couch</item>
         <item>Bunk Bed</item>
         <item>Double Bed</item>
         <item> Single Bed</item>

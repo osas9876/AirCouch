@@ -22,4 +22,12 @@
 
 
     </style>
+
+    <!-- Tool bar styling -->
+    <style name="SplashScreenTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:background">@color/navy</item>
+        <item name="android:textColorPrimary">@color/white</item>
+
+
+    </style>
 </resources>
