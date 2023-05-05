@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AirCouch</string>
+    <string name="button_addAirCouch">Add AirCouch</string>
+    <string name="hint_aircouchTitle">Aircouch Title</string>
+    <string name="hint_aircouchAddress">Address</string>
+    <string name="hint_spacesAvailable">Spaces Avaliable</string>
+    <string name="menu_addAirCouch">Add</string>
+    <string-array name="hint_type">
+    <item>Couch</item>
+        <item>Bunk Bed</item>
+        <item>Double Bed</item>
+        <item> Single Bed</item>
+        <item>Air Bed</item>
+    </string-array>
+    <string name="menu_cancelAirCouch">Cancel</string>
+    <string name="save_aircouch"> Save Aircouch </string>
+    <string name="enter_aircouch_title"> Please enter a Aircouch Title </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_aircouch_image">Select aircouch image</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="change_aircouch_image">Change Image</string>
+    <string name="aircouch_image">aircouch image</string>
+    <string name="button_del"> Delete </string>
+
+</resources>
